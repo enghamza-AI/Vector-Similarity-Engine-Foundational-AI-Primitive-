@@ -1,0 +1,36 @@
+Project Name: Vector Similarity Engine
+
+Project Type: Python begineer AI/ML project(No advanced libraries initially)
+
+Goal:
+Create a python program that can compute similarity between vectors.
+Each vector represents a concepts, object or data point. By comparing vectors, We can find
+which items are "closest" to a given target.
+
+Example Use Case:
+
+We have vectors representing fruits:
+
+apple = [1, 0, 0]
+
+banana = [0, 1, 0]
+
+orange = [0, 0, 1]
+
+We want to know which fruit is most similar to target = [1, 0, 0].
+
+The engine computes similarity scores and tells us apple is closest, banana and orange are less similar.
+
+Key Concepts Covered (Beginner + AI Perspective):
+
+Python basics: variables, loops, lists, functions, classes
+
+Python intermediate: list/dict comprehensions, scope, methods
+
+AI foundation: vectors, dot product, magnitude, cosine similarity
+
+Object-oriented programming: reusable engine class
+
+Scalability: Later can replace manual lists with NumPy arrays or real AI embeddings
+
+
